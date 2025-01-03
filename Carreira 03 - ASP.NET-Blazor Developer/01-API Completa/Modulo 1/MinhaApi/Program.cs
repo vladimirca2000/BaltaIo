@@ -34,8 +34,8 @@ app.MapPost("/", (User user) =>
 
 app.Run();
 
-public class User
+class User
 {
     public int Id { get; set; }
-    public string Username { get; set; }
+    public string UserName { get; set; }
 }
