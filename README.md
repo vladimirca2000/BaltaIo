@@ -1,2 +1,2 @@
 # BaltaIo
-Corsos do Balta.io
+Cursos do Balta.io
