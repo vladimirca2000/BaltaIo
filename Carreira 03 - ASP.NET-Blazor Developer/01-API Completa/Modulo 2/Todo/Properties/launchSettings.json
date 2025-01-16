@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "T9odo": {
+    "Todo": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
